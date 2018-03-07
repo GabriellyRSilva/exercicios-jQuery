@@ -1,0 +1,19 @@
+#interface{
+	width: 1000px;
+	margin: 20px auto 20px auto;
+}
+
+span{
+
+	border: 1px solid black;
+	font-weight: bold;
+	font-size: 50pt;
+	padding: 10pt;
+	background-color: #CCC;
+}
+
+span:hover{
+
+	background-color: black;
+	color: #ffffff;
+}
