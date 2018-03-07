@@ -1,0 +1,18 @@
+img {
+	width: 500px;
+	height: 500px;
+	margin-bottom: 6px;
+}
+
+span{
+	border: 1px solid black;
+	font-size: 30px;
+	text-align: center;	
+	background: #CCC;
+	padding: 10px 150px 10px 151px;
+}
+
+span:hover{
+	background: black;
+	color: white;
+}
