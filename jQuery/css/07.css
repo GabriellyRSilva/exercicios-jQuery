@@ -1,0 +1,32 @@
+form{
+	/* Centraliza o form */
+	margin: 0 auto;
+	width: 400px;
+	padding: 1em;
+
+}
+
+form div+div{
+	/* Espaçamento entre divs */
+	margin-top:1em;
+}
+
+label{
+	display: inline-block;
+	width: 70px; /* largura de todas as labels, deixando alinhado os conteudos após elas */
+	text-align: left;
+}
+
+textarea{
+	/* Para alinhar corretamente os campos de texto de várias linhas com sua label*/
+	vertical-align: top;
+	height: 5em;
+	width: 250pt;
+	resize: vertical;
+	margin-bottom: 1em;
+}
+
+button{
+	margin-left: .5em;
+}
+
