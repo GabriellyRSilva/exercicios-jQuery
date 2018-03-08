@@ -1,0 +1,35 @@
+#interface{
+	margin: 0 auto;
+	width: 1000px;
+	padding: 1em;
+}
+
+.mouseEvent, .mouseEvent2, .mouseEvent3{
+
+	border: 3px dashed black;
+	font-weight: bold;
+	text-align: center;
+	font-size: 30pt;
+	padding: 10pt;
+	background-color: #CCC;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	width: 306px;	
+}
+
+.event,.event2, .event3{
+	border: 3px solid black;
+	font-weight: bold;
+	text-align: center;
+	font-size: 10pt;
+	padding: 10pt;
+	background-color: #CCC;
+	margin-bottom: 20px;
+	width: 306px;
+}
+
+.event:hover, .event2:hover, .event3:hover{
+
+	background-color: black;
+	color: #ffffff;
+}

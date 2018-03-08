@@ -1,6 +1,7 @@
 #interface{
+	margin: 0 auto;
 	width: 1000px;
-	margin: 20px auto 20px auto;
+	padding: 1em;
 }
 
 span{

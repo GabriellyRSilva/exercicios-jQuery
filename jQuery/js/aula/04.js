@@ -2,7 +2,7 @@
 	Seletores de Ordem em jQuery 
 */
 
-$("document").ready(function(){
+$(document).ready(function(){
 
 	$("tbody tr:first")
 	// first vai selecionar o primeiro elemento

@@ -4,7 +4,7 @@
 
 */
 
-$("document").ready(function(){
+$(document).ready(function(){
 	$("span").click(function(){
 
 		var img = $("<img/>", {			// Atribuição da var img por uma imagem e seus 'atributos'

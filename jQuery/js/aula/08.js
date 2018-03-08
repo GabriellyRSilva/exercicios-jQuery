@@ -2,7 +2,7 @@
 	Manipulação de atributos
 */
 
-$("document").ready(function(){
+$(document).ready(function(){
 	$("span").click(function() {  				//Quando clicar no elemento span vai executar a function()
 
 		 alert($("img").attr("title")); 			//Imprime o atributo(attr) do elemento img 

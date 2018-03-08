@@ -4,7 +4,7 @@
 
 */
 
-$("document").ready(function(){
+$(document).ready(function(){
 
 	$("a[name=menu]")
 	//Seleciona com a cor #CCC todos elementos <a> que tenham name=menu

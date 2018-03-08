@@ -1,7 +1,7 @@
 /* 
 	Seletores de Contéudo jQuery
 */
-$("document").ready(function(){
+$(document).ready(function(){
 
 	$("td:contains('Crime'), td:contains('Drama')")
 	//Preenche o conteudo contido em contains() com a cor #CCC

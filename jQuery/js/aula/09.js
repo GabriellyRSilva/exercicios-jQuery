@@ -4,7 +4,7 @@
 
 */
 
-$("document").ready(function(){
+$(document).ready(function(){
 	$("span").click(function(){
 
 		//alert($("p").html()); 					  //Recupera o primeiro elemento em html
